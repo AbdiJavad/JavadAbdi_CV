@@ -68,13 +68,13 @@ EDUCATIONAL BACKGROUND/ CERTIFICATIONS
   M.S. in computer engineering  
   B.SC in Bachelor of Accounting.  
  IELTS Certificate. 
-              German Language  B2 Certificate .
+ German Language  B2 Certificate .
 
        TECHNICAL SKILLS 
 
-     Languages: 	Java SE, Solidity 
+     Languages: 	Java SE
    Web Technologies: 	Java EE, Spring Boot, REST API, GRPC. 
    block chain :  	Web3j, Tron, smart contract. 
-   CI/CD : 	Ansible, Docker, GitlabCI ,  Git , Bash  
+   CI/CD : 	Junit,Swagger,Postman,Ansible, Docker, GitlabCI ,  Git , Bash  
  
  
