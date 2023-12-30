@@ -16,7 +16,7 @@ PROFESSIONAL EXPERIENCE
 •	I have thoroughly examined and evaluated the code for channel WSDL and socket programming, leading to a noticeable improvement in code quality efficiency. This process has enriched my understanding of the software development life cycle (SDLC), contributing to 18% increase in expertise.    
 
 •	Restructured and optimized socket programming, resulting in a 40% reduction in data transfer time and increasing system performance. 
-   Environment: Java EE, DB2, tomcat, hibernate, and spring boot. 
+   Environment: Java SE, DB2, tomcat, hibernate, and spring boot. 
 
     SEPAH BANK  (Jun. 2011- Dec. 2019)
 
@@ -29,7 +29,7 @@ SOFTWARE SUPPORT SPECIALIST
 •	Orchestrated cross-functional workshops and training sessions, fostering a 12% increase in collaboration and teamwork between the Deposit and Lending teams; achieved alignment on shared goals, processes, and timelines to streamline operations and drive efficiency. 
 
 
-Environment: Java EE, Oracle, web Logic, I Batis, and spring boot. 
+Environment: Java SE, Oracle, web Logic, I Batis, and spring boot. 
  
    SEPAH BANK  (Jun. 1998- Mar. 2011)
           Java Developer 
@@ -42,7 +42,7 @@ Environment: Java EE, Oracle, web Logic, I Batis, and spring boot.
 
 •	Executed coding and programming tasks to meet project specifications and adhere to development standards; introduced automated testing framework that reduced bug identification time by 25% and increased software quality. 
 
-          Environment: Java EE, Oracle, web Logic, and Visual Paradigms. 
+          Environment: Java SE, Oracle, web Logic, and Visual Paradigms. 
 
 
  
@@ -72,8 +72,8 @@ EDUCATIONAL BACKGROUND/ CERTIFICATIONS
 
        TECHNICAL SKILLS 
 
-     Languages: 	Java SE
-   Web Technologies: 	Java EE, Spring Boot, REST API, GRPC. 
+     Languages: 	Java 
+   Web Technologies: 	Java SE, Spring Boot, REST API, GRPC. 
    block chain :  	Web3j, Tron, smart contract. 
    CI/CD : 	Junit,Swagger,Postman,Ansible, Docker, GitlabCI ,  Git , Bash  
  
