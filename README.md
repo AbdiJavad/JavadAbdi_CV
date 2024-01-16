@@ -2,10 +2,10 @@
 This is my resume page.
 Javad Abdi
  
- mirjavadabdi@gmail.com 	https://github.com/AbdiJavad	 
-www.linkedin.com/in/javad-abdi
-	 
-Skype ID:  Javad _Abdi	 	
+ mirjavadabdi@gmail.com 
+ https://github.com/AbdiJavad	 
+www.linkedin.com/in/javad-abdi	 
+Skype ID:https://join.skype.com/invite/OargeN02vAt7	 	
 https://stackoverflow.com/users/19421588/mirjavad-abdi 
 
 PROFESSIONAL EXPERIENCE
