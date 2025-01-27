@@ -2,7 +2,7 @@
 This is my resume page.
 Javad Abdi
 JAVA DEVELOPER      
- FREELANCEF INDEPENDENT PROGRAMMER                                                                                                                                                            
+ FREELANCEF INDEPENDENT PROGRAMMER                                                                                                                                                           
 •	January  2022 -  Present
 •	Engineered a Java-based application using Spring Boot, Rest, and Junit to automate manual processes, achieving a 40% reduction in time spent on repetitive tasks.
 •	Collaborated with cross-functional teams to enhance bank management processes by integrating Java solutions, streamlining workflow, and improving data security measures.
